@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- USB Accessory filter для Android 15+ -->
+    <usb-accessory manufacturer="dvpashkevich" model="PyAndroidCompanion" />
+</resources>
+
